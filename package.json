@@ -1,0 +1,27 @@
+{
+  "name": "joi-emoji",
+  "version": "1.0.0",
+  "description": "a joi extension for validate emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalalacampanella/joi-emoji.git"
+  },
+  "keywords": [
+    "joi",
+    "emoji"
+  ],
+  "author": "mazeppafan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalalacampanella/joi-emoji/issues"
+  },
+  "homepage": "https://github.com/lalalacampanella/joi-emoji#readme",
+  "dependencies": {
+    "emoji-regex": "^6.5.1",
+    "joi": "^10.6.0"
+  }
+}
